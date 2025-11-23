@@ -1,15 +1,5 @@
 # 💰 Personal Expense Tracker
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Python-3.x-blue.svg" />`{=html}
-`<img src="https://img.shields.io/badge/Status-Active-success" />`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-yellow" />`{=html}
-`<img src="https://img.shields.io/badge/CLI-App-orange" />`{=html}
-```{=html}
-</p>
-```
 A simple, lightweight, command-line **Personal Expense Tracker** written
 in Python.\
 Track expenses, filter by category, and calculate totals --- all stored
